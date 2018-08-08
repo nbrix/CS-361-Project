@@ -1,0 +1,367 @@
+{
+	"quizQuestions" : [
+		{
+			"question": "In general, do you believe we have enough laws relating to the control of handguns, or do we need more laws?",
+			"answers": {
+				"a": "Enough",
+				"b": "More"
+			},
+			"values": {
+				"a": 0,
+				"b": 1
+			}
+		},
+		{
+			"question": "Do you favor or oppose raising the minimum wage?",
+			"answers": {
+				"a": "Favor",
+				"b": "Oppose"
+			},
+			"values": {
+				"a": 1,
+				"b": 0
+			}
+		},
+		{
+			"question": "What should be the bigger priority for the federal government-stopping tobacco use or stopping illegal drugs?",
+			"answers": {
+				"a": "Tobacco",
+				"b": "Illegal Drugs"
+			},
+			"values": {
+				"a": 1,
+				"b": 0
+			}
+		},
+		{
+			"question": "Do you think health care plans that cover prescriptions should be required to pay for the cost of prescription birth control?",
+			"answers": {
+				"a": "Yes",
+				"b": "No"
+			},
+			"values": {
+				"a": 1,
+				"b": 0
+			}
+		},
+		{
+			"question": "Do you think health care plans should be required to pay any of the cost of an abortion?",
+			"answers": {
+				"a": "Yes",
+				"b": "No"
+			},
+			"values": {
+				"a": 2,
+				"b": 0
+			}
+		},
+		{
+			"question": "What should be the first priority for a budget surplus?",
+			"answers": {
+				"a": "Help fund Social Security",
+				"b": "Cut personal taxes"
+			},
+			"values": {
+				"a": 2,
+				"b": 0
+			}
+		},
+		{
+			"question": "The economy's current condition is due more to the policies of the:",
+			"answers": {
+				"a": "Clinton administration",
+				"b": "Bush Administration"
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		},
+		{
+			"question": "Should the law be changed so that if a defendant wins a civil lawsuit the plaintiff is required to pay the defendant's legal bills, or will that prevent lower-income plaintiffs from bringing legitimate suits out of fear that it may bankrupt them?",
+			"answers": {
+				"a": "Plaintiff should pay them",
+				"b": "Law should pay some"
+			},
+			"values": {
+				"a": 0,
+				"b": 1
+			}
+		},
+		{
+			"question": "Who do you believe has done more for America as president?",
+			"answers": {
+				"a": "Bill Clinton",
+				"b": "George W. Bush",
+			},
+			"values": {
+				"a": 2,
+				"b": 0
+			}
+		},
+		{
+			"question": "Who do you believe did more to contribute to the American quality of life today?",
+			"answers": {
+				"a": "Ronald Reagan",
+				"b": "Franklin D. Roosevelt"
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		},
+		{
+			"question": "Should bilingual education be banned from public schools with all classes taught only in English?",
+			"answers": {
+				"a": "Yes",
+				"b": "No"
+			},
+			"values": {
+				"a": 0,
+				"b": 1
+			}
+		},
+		{
+			"question": "What would you encourage your son or daughter to do?",
+			"answers": {
+				"a": "Run a business",
+				"b": "Serve in public office"
+			},
+			"values": {
+				"a": 0,
+				"b": 1
+			}
+		},
+		{
+			"question": "If movie stars Arnold Schwarzennegger and Martin Sheen were running against each other for U.S. Senate in your state, whom do you think you would vote for?",
+			"answers": {
+				"a": "Arnold Schwarzennegger",
+				"b": "Martin Sheen"
+			},
+			"values": {
+				"a": 0,
+				"b": 1
+			}
+		},
+		{
+			"question": "Do you believe that affirmative action is needed to address continuing discrimination against women and minorities, or do you believe that affirmative action discriminates against white males?",
+			"answers": {
+				"a": "Needed to address discrimination against women and minorities",
+				"b": "Discriminates against white males"
+			},
+			"values": {
+				"a": 1,
+				"b": 0
+			}
+		},
+		{
+			"question": "Which do you think would do more to improve the quality of education in America?",
+			"answers": {
+				"a": "Provide education vouchers allowing parents to send their children to the school of their choice",
+				"b": "Provide federal funding to hire new teachers in order to guarantee the reduction of class size to 20 students per class"
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		},
+		{
+			"question": "Among the following options, which do you think is the biggest cause of the recent crisis of violence in schools?",
+			"answers": {
+				"a": "Removal of prayer in schools",
+				"b": "Too many guns are available"
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		},
+		{
+			"question": "Should Congress allocate $20 billion over the next five years to the states to use in assisting low-income families with their child care expenses?",
+			"answers": {
+				"a": "Yes",
+				"b": "No"
+			},
+			"values": {
+				"a": 2,
+				"b": 0
+			}
+		},
+		{
+			"question": "Should Congress provide Food Stamp benefits to legal immigrants?",
+			"answers": {
+				"a": "Yes",
+				"b": "No"
+			},
+			"values": {
+				"a": 1,
+				"b": 0
+			}
+		},
+		{
+			"question": "Which do you think is the better solution of ensuring that there is enough money in the Social Security system to cover the retirement years of the baby boomer generation?",
+			"answers": {
+				"a": "Privatization, so that individuals can invest their Social Security in private plans in the hopes of higher returns",
+				"b": "Keep the system structured similar to the way it is today, raise the retirement age, and if necessary, reduce the cost-of-living increases or increase payroll taxes."
+			},
+			"values": {
+				"a": 0,
+				"b": 1
+			}
+		},
+		{
+			"question": "When the U.S. negotiates future trade agreements like NAFTA, should we insist that the agreements uphold American labor and environmental standards, or should we leave it to the free market?",
+			"answers": {
+				"a": "Include labor and environmental standards",
+				"b": "Leave it to the free market"
+			},
+			"values": {
+				"a": 1,
+				"b": 0
+			}
+		},
+		{
+			"question": "Do you believe that global warming has been proven and that the U.S. should require reduction in greenhouse gas emissions, or do you believe that Global Warming is unproven and such an action would cost jobs to solve a problem that doesn't really exist?",
+			"answers": {
+				"a": "Global warming is real",
+				"b": "Global warming is unproven"
+			},
+			"values": {
+				"a": 1,
+				"b": 0
+			}
+		},
+		{
+			"question": "Should the U.S. pay its debt to the United Nations, or should we hold back payment until reforms are put in place?",
+			"answers": {
+				"a": "Pay back U.N. debt",
+				"b": "Hold back until reformed"
+			},
+			"values": {
+				"a": 2,
+				"b": 0
+			}
+		},
+		{
+			"question": "If Congress votes to raise tobacco taxes, what should we do with the revenues?",
+			"answers": {
+				"a": "Cut personal taxes",
+				"b": "Spend it on public health and education programs"
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		},
+		{
+			"question": "Do you believe that a comprehensive tobacco bill raising cigarette taxes, restricting tobacco marketing, and settling law suits should be passed as essential to the public health, or would it be more unwarranted big government intervention on personal choice that would achieve minimal, if any, benefits?",
+			"answers": {
+				"a": "Essential to public health",
+				"b": "Unwarranted big government intervention"
+			},
+			"values": {
+				"a": 2,
+				"b": 0
+			}
+		},
+		{
+			"question": "Which of the following statements is closer to your view?",
+			"answers": {
+				"a": "The free market is a great engine of economic prosperity; government should meddle with it as little as possible",
+				"b": "Active government is needed to protect consumers and workers, and to ensure greater economic quality",
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		},
+		{
+			"question": "Would you prefer to have a student in public school read?",
+			"answers": {
+				"a": "Creation vs. Evolutionism",
+				"b": "Heather has Two Mommies"
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		},
+		{
+			"question": "Should under-age youths who commit violent acts of crime be tried as adults and sent to adult jails if convicted?",
+			"answers": {
+				"a": "Yes",
+				"b": "No"
+			},
+			"values": {
+				"a": 0,
+				"b": 1
+			}
+		},
+		{
+			"question": "If you won $1 million in the lottery or earned $1 million in pay, how much should you pay in federal income taxes?",
+			"answers": {
+				"a": "$380,000",
+				"b": "$280,000"
+			},
+			"values": {
+				"a": 1,
+				"b": 0
+			}
+		},
+		{
+			"question": "Should we enact a federal law declaring the English language the official language of our government?",
+			"answers": {
+				"a": "Yes",
+				"b": "No"
+			},
+			"values": {
+				"a": 0,
+				"b": 1
+			}
+		},
+		{
+			"question": "Should gay couples be allowed to receive spousal benefit from states and the federal government?",
+			"answers": {
+				"a": "Yes",
+				"b": "No"
+			},
+			"values": {
+				"a": 2,
+				"b": 0
+			}
+		},
+		{
+			"question": "Should there be a Constitutional Amendment that would prohibit burning the United States flag?",
+			"answers": {
+				"a": "Yes",
+				"b": "No"
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		},
+		{
+			"question": "Why did the special prosecutor's investigation of the Clintons drag on?",
+			"answers": {
+				"a": "Bill Clinton refused to turn over evidence and allow his aides and the Secret	Service to testify",
+				"b": "Ken Starr had no evidence and was waging a right-wing plot to discredit the president"
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		},
+		{
+			"question": "Which side of the political spectrum has views closest to yours?",
+			"answers": {
+				"a": "The Right",
+				"b": "The Left"
+			},
+			"values": {
+				"a": 0,
+				"b": 2
+			}
+		}
+	]
+}
